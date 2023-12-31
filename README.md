@@ -67,7 +67,7 @@
 | Catxx | https://sudoku-js-omega.vercel.app/ | 第一版 |
 | 龙飞 | https://sudoku-garden1.vercel.app/| 第一版 |
 | 好先生 | https://sudoku-flask-demo.vercel.app | 第一版 |
-
+| Dylan | https://sudoku-dylan.vercel.app/ | 第一版 |
 
 ## 训练营介绍
 
